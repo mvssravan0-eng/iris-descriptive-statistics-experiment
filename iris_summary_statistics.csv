@@ -1,2 +1,0 @@
-Dataset,Column,N,Mean,Median,Mode,Sample Variance,Sample Std Dev,Population Variance,Population Std Dev,Q1,Q2_Median,Q3,IQR,Skewness,Outliers
-Iris,petal_length,150,3.758,4.35,1.4,3.1163,1.7653,3.0955,1.7594,1.6,4.35,5.1,3.5,-0.2721,0
